@@ -164,7 +164,7 @@ The application uses [JSON Placeholder](https://jsonplaceholder.typicode.com/) a
    npm run build
    ```
 
-2. **Drag and drop** the `dist` folder to [Netlify](https://netlify.com)
+2. **Drag and drop** the `dist` folder to [Netlify](https://vercel.com)
 
 3. **Or connect** your GitHub repository for automatic deployments
 
@@ -212,13 +212,6 @@ The application has been thoroughly tested for:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Developed by [Your Name] for healthcare professionals and patient management.
 
 ---
 
