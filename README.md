@@ -32,7 +32,8 @@ A professional, responsive React application for managing patient records with a
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](Screenshot 2024-07-20 090331.png)
+[![Desktop View](Screenshot 2024-07-20 090331.png)](Screenshot 2024-07-20 090331.png)
+
 
 ### Mobile View
 ![Mobile View](https://via.placeholder.com/400x600/3b82f6/ffffff?text=Mobile+Dashboard+View)
